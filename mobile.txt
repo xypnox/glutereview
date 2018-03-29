@@ -1,0 +1,67 @@
+
+
+The Good
+
+The {{ name }} almost has it all: a great camera, speedy processor, great screen, excellent battery life on a {{ type }}.
+
+The Bottom Line The {{ name }} is a rock-solid for almost anyone looking for a great {{ type }}.
+
+Overall Rating : {{ review1 }}
+
+
+I just want a {{ type }} that does everything. Is that too much to ask?
+
+I want a sleek, durable {{ type }} that's practically awesome. A device with gobs of performance, loooong battery life and an amazing camera.
+
+Now, there's the {{ name }}. It isn't a cheap phone, it isn't a small phone and it isn't perfect. I've used it for a whole month as my daily driver, and I definitely have annoyances to share.
+
+But here's what the {{ name }} truly is: a worthy phone for you.
+
+In test after test, the {{ name }} held its own -- to the point that you might be happy buying it at any price.
+What's an {{ name }} and how much does it cost?
+
+It's {{ name }} {{ type }} -- a solid step up in build quality and features from the previous model released earlier.
+
+In the US, the phone costs between ${{ priceLow }} and ${{ priceHigh }}.
+
+All about that screen
+
+"Is that the new iPhone?"
+
+I must have heard that question half a dozen times while using the {{ name }}, and there's good reason. Like the iPhone X and many other 2017 flagship handsets, the {{ name }} is a vision made of glass and aluminum.
+
+It, too, has an unusually tall screen that extends practically all the way to the top and bottom edges. It, too, sports a smooth glass back and a shiny aluminum band. And it, too, houses a P-OLED display -- the first on an {{ type }} in quite a while.
+{{ name }}
+
+The {{ name }} does fit in pants pockets. How much it will bulge depends on your pants.
+
+The {{ name }}'s screen has no odd issues: I had an amazing time watching Netflix and browsing websites in bed because {{ name }}'s screen damn near perfect. Dim scenes in movies didn't just look dim, but positively nice. Just something to appreciate.
+
+More importantly, I had a no issues holding the phone that surrounds that giant screen. The {{ name }} looks and feels lovely. I also think the ergonomics are universally great.
+
+The camera: It's Amazing
+
+Let's make one thing clear: The {{ name }}'s dual cameras take killer photos. They're crisp, full of life, and -- as often as not -- better than ones I took side by side with a Samsung Galaxy S8 Plus, with more detail and less splotchy noise if you zoom in. You can thank the additional megapixels (16MP vs. 12MP) and slightly larger lens aperture (f/1.6 vs. f/1.7) for that.
+
+If you only remember one thing about the {{ name }}'s camera, make it this: It takes excellent photos.
+
+Like last year's original Pixel, the {{ name }} excels at indoor, outdoor and low-light shots. Photos are sharper than the competitors, and colors were more distinct with less digital noise and artifacts.
+
+As with a handful of other phones, you can take bokeh-style shots with the front-facing camera too, but it doesn't process photos smoothly and only works on faces, not objects.
+Even more {{ name }} camera tech
+
+If you're into cameras, there's more to know about the {{ name }}'s lenses.
+
+The manufacturer widened the camera's aperture. This lets in a tad more light to achieve that more detailed low-light photography. HDR enhanced uses a varying number of exposures to generate a single photo. This effect shines in tricky lighting situations. When I photographed a goat indoors against a bright backlight, the multiple exposures overlaid with HDR+ enhanced created a more evenly lit photo than HDR+. It has an added optical image stabilization (OIS) on the rear camera, on top of the gyro-based electronic image stabilization that can be toggled on and off. Together, they make for less shaky photos and video. When I tested it out while walking down a paved road and on a moving merry-go-round, I was impressed by how smoothly and natural-looking stabilization worked. A huge improvement from the previous generation.
+
+Motion Photos records a video for 1.5 seconds before and after a single shot. It then trims them and loops them into a Giphy-style, "live" picture.
+
+The camera is optimized and calibrated to support VR and comes with VR. They work like regular photo stickers you add to your photos and video, but they're 3D elements and characters that move around and interact in real-life environments.
+
+Battery life and processor speed
+
+The {{ name }}'s battery life was fantastic, especially when you compare it to other top-tier (and even some higher midtier) phones. During our battery drain test for continuous video playback on airplane mode, the {{ name }} lasted an average of 23 hours and 28 minutes. That ahead short of the other's time of 14 hours.
+
+Anecdotally, it'll last for a full day of moderate-to-heavy use, you'll never need to recharge the phone by the end of the day. When I used it heavily throughout the day surfing the web, taking tons of photos and using Assistant, the battery drained to about 85 percent in the afternoon and about 65 percent in the early evening.
+
+A speedy processor matches head-to-head with its competitors in scoring high benchmark scores. Real-world usage was also smooth and fast, and the phone was quick to render portrait shots, launching apps and displaying graphic-intensive apps like VR videos and content.
